@@ -1,7 +1,7 @@
 # react-admin-list-kit
 
 <p align="center">
-  <img src="./public/preview.png" alt="react-admin-list-kit preview" width="760" />
+  <img src="./public/preview.png" alt="react-admin-list-kit preview" width="560" />
 </p>
 
 <p align="center">
